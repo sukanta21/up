@@ -5,6 +5,7 @@ repo: up # The name of this repository
 sites:
   - name: jobs.abroadworks.com
     url: https://jobs.abroadworks.com
+    icon: https://jobs.abroadworks.com/static/LogoSite.svg
   - name: jobsaas.co.in
     url: https://jobsaas.co.in
   # - name: Google
@@ -15,6 +16,9 @@ sites:
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
+
+assignees: # Users to assign downtime issues (optional)
+  - SukantaDas
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
