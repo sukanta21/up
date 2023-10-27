@@ -37,8 +37,8 @@ status-website:
   navbar:
     - title: Status
       href: https://sukanta21.github.io/up
-    - title: GitHub
-      href: https://sukanta21.github.io/up
+    - title: Abroadworks
+      href: https://jobs.abroadworks.com
       # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
@@ -46,7 +46,7 @@ status-website:
 
 i18n:
 footer: This page is hosted on [GitHub](https://sukanta21.github.io/up) project since @2023-10-27, & created by [Abroadworks](https://jobs.abroadworks.com).
-    # footer: This page is hosted on GitHub [sukanta21/up]($REPO) project since @2023-10-27, & created by [Abroadworks](https://jobs.abroadworks.com).
+# footer: This page is hosted on GitHub [sukanta21/up]($REPO) project since @2023-10-27, & created by [Abroadworks](https://jobs.abroadworks.com).
   
 workflowSchedule:
   graphs: "0 */6 * * *"
