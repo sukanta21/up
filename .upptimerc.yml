@@ -5,8 +5,10 @@ repo: up # The name of this repository
 sites:
   - name: jobs.abroadworks.com
     url: https://jobs.abroadworks.com
+    icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   - name: jobsaas.co.in
     url: https://jobsaas.co.in
+    icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
@@ -28,7 +30,7 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Monitor Jobsaas
   introTitle: "**UP** monitors Jobsass Websites!"
-  introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up/).
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up).
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   theme: light
   # Available themes are light, dark, night or ocean.
