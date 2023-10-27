@@ -5,7 +5,6 @@ repo: up # The name of this repository
 sites:
   - name: jobs.abroadworks.com
     url: https://jobs.abroadworks.com
-    icon: https://jobs.abroadworks.com/static/LogoSite.svg
   - name: jobsaas.co.in
     url: https://jobsaas.co.in
   # - name: Google
@@ -32,6 +31,7 @@ status-website:
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up/).
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   theme: ocean
+  
   navbar:
     - title: Status
       href: /
@@ -42,7 +42,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is hosted on GitHub [51sec/up]($REPO) project since @2022-07-01, & created by [NetSec](https://www.51sec.org).
+  footer: This page is hosted on GitHub [sukanta21/up]($REPO) project since @2023-10-27, & created by [SD](https://jobs.abroadworks.com).
   
 workflowSchedule:
   graphs: "0 */6 * * *"
