@@ -38,3 +38,15 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is hosted on GitHub [51sec/up]($REPO) project since @2022-07-01, & created by [NetSec](https://www.51sec.org).
+  
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "10 */6 * * *"
+  staticSite: "20 */6 * * *"
+  summary: "30 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "40 */6 * * *"
+  uptime: "*/5 * * * *"
