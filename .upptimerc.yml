@@ -32,7 +32,7 @@ status-website:
   introTitle: "**UP** monitors Jobsass Websites!"
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up).
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-  theme: light
+  theme: night 
   # Available themes are light, dark, night or ocean.
   navbar:
     - title: Status
