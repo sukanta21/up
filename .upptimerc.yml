@@ -28,8 +28,10 @@ status-website:
   logoUrl: https://jobs.abroadworks.com/static/LogoSite.svg
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UpptimeJobsaas
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**UP** monitors Jobsass Websites!"
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up/).
+  favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
+  theme: ocean
   navbar:
     - title: Status
       href: /
