@@ -19,7 +19,7 @@ sites:
   #   url: https://thissitedoesnotexist.koj.co
 
 assignees: # Users to assign downtime issues (optional)
-  - SukantaDas
+  - sukanta21
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,7 +32,7 @@ status-website:
   introTitle: "**UP** monitors Jobsass Websites!"
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up).
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-  theme: dark 
+  theme: light 
   # Available themes are light, dark, night or ocean.
   navbar:
     - title: Status
