@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**UP** monitors Jobsass Websites!"
-  introMessage: The monitoring **real-time** data.
+  introMessage: Monitoring **real-time** data.
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   theme: light 
   # Available themes are light, dark, night or ocean.
