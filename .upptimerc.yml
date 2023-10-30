@@ -26,11 +26,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /up
-  logoUrl: https://jobs.abroadworks.com/static/LogoSite.svg
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime Monitor Jobsaas
+  # logoUrl: https://jobs.abroadworks.com/static/LogoSite.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
   introTitle: "**UP** monitors Jobsass Websites!"
-  introMessage: The monitoring **real-time** data from our [GitHub repository](https://sukanta21.github.io/up).
+  introMessage: The monitoring **real-time** data.
   favicon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   theme: light 
   # Available themes are light, dark, night or ocean.
