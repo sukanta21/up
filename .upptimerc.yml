@@ -38,9 +38,11 @@ status-website:
   navbar:
     - title: Status
       href: https://sukanta21.github.io/up
-    - title: Abroadworks
+    - title: Abroadworks Pro
       href: https://jobs.abroadworks.com
       # href: https://github.com/$OWNER/$REPO
+    - title: Abroadworks Staging
+      href: https://jobsaas.co.in/org/01G682MQPFM8K0SAPMSZP3WQ3Q/jobs
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
