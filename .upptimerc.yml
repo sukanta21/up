@@ -12,11 +12,7 @@ sites:
   - name: abroadworks.com
     url: https://abroadworks.com
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-  - name: frontierdental.com
-    url: https://www.frontierdental.com
-    icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-
-    
+  
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
