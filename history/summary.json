@@ -4,10 +4,10 @@
     "url": "https://jobs.abroadworks.com",
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "jobs-abroadworks-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
@@ -15,7 +15,9 @@
     "timeWeek": 204,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 2
+    }
   },
   {
     "name": "jobsaas.co.in",
@@ -41,18 +43,18 @@
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "abroadworks-com",
     "status": "down",
-    "uptime": "91.87%",
-    "uptimeDay": "16.06%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "91.87%",
-    "uptimeYear": "91.87%",
+    "uptime": "91.23%",
+    "uptimeDay": "8.81%",
+    "uptimeWeek": "86.97%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "91.23%",
     "time": 2068,
     "timeDay": 2840,
     "timeWeek": 2035,
     "timeMonth": 2068,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2023-11-27": 98,
+      "2023-11-27": 202,
       "2023-11-26": 1111
     }
   }
