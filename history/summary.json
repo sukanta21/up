@@ -4,10 +4,10 @@
     "url": "https://jobs.abroadworks.com",
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "jobs-abroadworks-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 220,
@@ -16,6 +16,7 @@
     "timeMonth": 219,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-11-28": 1,
       "2023-11-27": 23
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://jobsaas.co.in",
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "jobsaas-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 180,
     "timeMonth": 228,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "abroadworks.com",
@@ -43,11 +46,11 @@
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "abroadworks-com",
     "status": "up",
-    "uptime": "91.60%",
+    "uptime": "91.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.17%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "91.60%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "91.63%",
     "time": 1933,
     "timeDay": 1374,
     "timeWeek": 1832,
