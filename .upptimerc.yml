@@ -6,12 +6,12 @@ sites:
   - name: jobs.abroadworks.com
     url: https://jobs.abroadworks.com
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-  - name: jobsaas.co.in
-    url: https://jobsaas.co.in
+  - name: api.abroadworks.com
+    url: https://api.abroadworks.com
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-  - name: abroadworks.com
-    url: https://abroadworks.com
-    icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
+  # - name: abroadworks.com
+  #   url: https://abroadworks.com
+  #   icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   
   # - name: Google
   #   url: https://www.google.com
@@ -45,8 +45,8 @@ status-website:
     - title: Abroadworks Pro
       href: https://jobs.abroadworks.com
       # href: https://github.com/$OWNER/$REPO
-    - title: Abroadworks Staging
-      href: https://jobsaas.co.in/org/01G682MQPFM8K0SAPMSZP3WQ3Q/jobs
+    - title: Abroadworks Pro API
+      href: https://api.abroadworks.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
