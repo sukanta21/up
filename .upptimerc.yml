@@ -9,7 +9,7 @@ sites:
   - name: api.abroadworks.com
     url: https://api.abroadworks.com
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
-   # - name: abroadworks.com
+  # - name: abroadworks.com
   #   url: https://abroadworks.com
   #   icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   
