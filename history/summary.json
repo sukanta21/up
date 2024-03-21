@@ -4,7 +4,7 @@
     "url": "https://jobs.abroadworks.com",
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "jobs-abroadworks-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 280,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-01-17": 17,
       "2023-11-27": 23
     }
