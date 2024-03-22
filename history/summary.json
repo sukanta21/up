@@ -6,17 +6,16 @@
     "slug": "jobs-abroadworks-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 233,
-    "timeDay": 256,
-    "timeWeek": 220,
-    "timeMonth": 279,
+    "timeDay": 288,
+    "timeWeek": 228,
+    "timeMonth": 281,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-03-21": 11,
       "2024-01-17": 17,
       "2023-11-27": 23
     }
@@ -34,8 +33,8 @@
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 246,
-    "timeWeek": 206,
-    "timeMonth": 203,
+    "timeWeek": 213,
+    "timeMonth": 204,
     "timeYear": 209,
     "dailyMinutesDown": {}
   }
