@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 233,
-    "timeDay": 218,
-    "timeWeek": 239,
+    "timeDay": 243,
+    "timeWeek": 240,
     "timeMonth": 289,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -26,18 +26,18 @@
     "icon": "https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg",
     "slug": "api-abroadworks-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.95%",
     "time": 211,
-    "timeDay": 259,
+    "timeDay": 240,
     "timeWeek": 235,
     "timeMonth": 207,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 43
     }
   }
 ]
