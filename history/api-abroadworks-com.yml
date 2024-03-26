@@ -1,7 +1,7 @@
 url: https://api.abroadworks.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-26T06:25:39.921Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2024-03-26T07:53:19.213Z
 startTime: 2024-01-29T10:28:02.239Z
 generator: Upptime <https://github.com/upptime/upptime>
