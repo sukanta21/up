@@ -7,7 +7,7 @@ sites:
     url: https://jobs.abroadworks.com
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   - name: api.abroadworks.com
-    url: https://api.abroadworks.com
+    url: https://api.abroadworks.com/up
     icon: https://jobsaas.co.in/_next/static/media/logo-centered.7244b026.svg
   # - name: abroadworks.com
   #   url: https://abroadworks.com
@@ -46,7 +46,7 @@ status-website:
       href: https://jobs.abroadworks.com
       # href: https://github.com/$OWNER/$REPO
     - title: Abroadworks Pro API
-      href: https://api.abroadworks.com
+      href: https://api.abroadworks.com/up
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
